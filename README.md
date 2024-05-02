@@ -3,7 +3,7 @@ A ruby function to generate dna sequencing tags for sequencing labelling. It tak
 ```
 barcode_generator(3,3)
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
